@@ -275,11 +275,11 @@ The program uses a modular approach with the following components:
 - Multi-page documents
 - Various fonts and formatting
 
-❌ **Limitations**:
+<!-- ❌ **Limitations**:
 - Chart data extraction (provides metadata only)
 - OCR for scanned documents
 - Complex nested table structures
-- Form fields and interactive elements
+- Form fields and interactive elements -->
 
 ## Contributing
 
@@ -293,14 +293,4 @@ Feel free to enhance the script with:
 ## License
 
 This project is provided as-is for educational and development purposes.
-
-## Version History
-
-- **v1.0**: Initial release with core functionality
-  - Text and table extraction
-  - Section detection
-  - Image/chart identification
-  - JSON output format
-
----
 
